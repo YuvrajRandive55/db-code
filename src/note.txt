@@ -1,0 +1,6 @@
+ng build --output-path="dist/database" --deployUrl="database/"
+
+
+and index.html change the base 
+<base href="/database">
+
