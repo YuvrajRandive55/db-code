@@ -144,6 +144,9 @@ category1_bool:  boolean = true ;
        });
   }
 
+  
+
+
   bindRegion_Dropdown()
   {    
      this.authenticationService.bindRegion_Dropdown(this.category1,this.reportStri,this.regionStri, this.countryStri,this.segmentStri,this.indicationL1Stri,this.indicationL2Stri,this.indicationL3Stri,this.indicationL4Stri,this.indicationL5Stri)
